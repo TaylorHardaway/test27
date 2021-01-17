@@ -1,1 +1,1 @@
-console.log("last day of 30 repos!")
+console.log("last day of 30 repos")
